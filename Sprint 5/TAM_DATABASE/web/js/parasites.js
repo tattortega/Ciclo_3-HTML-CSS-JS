@@ -1,4 +1,4 @@
-const url = "http://localhost:8080/TAM_DATABASE/api/parasites"
+const url = "http://localhost:8081/TAM_DATABASE/api/parasites"
 const contenedor = document.querySelector('tbody')
 let resultados = ''
 const modalParasites = new bootstrap.Modal(document.getElementById('modalParasite'))

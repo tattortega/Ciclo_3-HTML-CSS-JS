@@ -1,4 +1,4 @@
-const url = "http://localhost:8080/TAM_DATABASE/api/paises"
+const url = "http://localhost:8081/TAM_DATABASE/api/paises"
 const contenedor = document.querySelector('tbody')
 let resultados = ''
 const modalPaises = new bootstrap.Modal(document.getElementById('modalPaises'))
